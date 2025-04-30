@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin Estrada</h1>
-<a href="https://git.io/typing-svg">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+passionate+developer+from+Colombia" alt="Typing SVG" />
-</a>
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+passionate+developer+from+Colombia" alt="Typing SVG" /></a>
+</h2>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keespp" alt="keespp" /></a> </p>
 
