@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Estrada</h1>
-<a href="https://git.io/typing-svg" style="display: flex; justify-content: center;">
+<a href="https://git.io/typing-svg" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+passionate+developer+from+Colombia" alt="Typing SVG" />
 </a>
 
